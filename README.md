@@ -1,0 +1,2 @@
+# manjuEdu
+wechat mini app
